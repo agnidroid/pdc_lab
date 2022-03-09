@@ -1,4 +1,4 @@
-# pdc_lab 
+# pdc_lab 2
 
 Q. Write a program to perform two function: 
 a. Sum of square
